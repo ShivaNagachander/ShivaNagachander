@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning 
 
-- ▶️: [Nc Pedia]([https://shivanagachander.github.io/Next-Chapter/](https://www.youtube.com/@Ncpedia))
+- ▶️: [Nc Pedia](https://www.youtube.com/@Ncpedia)
 
 - 📫 How to reach me [DM](mailto:shivanagachander@gmail.com)
 
