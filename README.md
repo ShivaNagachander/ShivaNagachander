@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <a href="https://twitter.com/ncpedia" target="blank"><img src="https://img.shields.io/twitter/follow/ncpedia?logo=twitter&style=for-the-badge" alt="ncpedia" /></a> </p>
 
-- 🌱 Currently learning 
+- 🌱 Currently learning Python,Javascript
 
 - ▶️: [Nc Pedia](https://www.youtube.com/@Ncpedia)
 
