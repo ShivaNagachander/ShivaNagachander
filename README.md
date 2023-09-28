@@ -3,30 +3,31 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <a href="https://twitter.com/ncpedia" target="blank"><img src="https://img.shields.io/twitter/follow/ncpedia?logo=twitter&style=for-the-badge" alt="ncpedia" /></a> </p>
 
-- 🌱 Currently learning Python,Javascript
+- 🌱 Currently learning **Python , Javascript**
 
 - ▶️: [Nc Pedia](https://www.youtube.com/@Ncpedia)
 
 - 📫 How to reach me [DM](mailto:shivanagachander@gmail.com)
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | C 
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 🖥 &nbsp; Canva | FireFly | Ms Designer 
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ncpedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ncpedia" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shiva-nagachander-r-53a707254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva nagachander ramaram" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shiva_nc_/?igshid=ZDdkNTZiNTM%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiva_nc_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Ncpedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ncpedia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shivanagachander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivanagachander" height="30" width="40" /></a>
+&nbsp; <a href="https://twitter.com/NcPedia?s=09" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://instagram.com/shiva_nc_?igshid=ZDdkNTZiNTM=" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/shiva-nagachander-r-53a707254" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:shivanagachander@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivaNagachander&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="shivanc's Github Stats">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">    
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaNagachander&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ShivaNagachander/github-readme-stats)
 
