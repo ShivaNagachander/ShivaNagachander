@@ -14,7 +14,7 @@
 - 💻 &nbsp; Python | C 
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git | Github | IDLE | GCollab
 - 🖥 &nbsp; Canva | FireFly | Ms Designer 
 
 <br>
