@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C 
+- 💻 &nbsp; Python | C | Java
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Visual Studio code | Git | Github | IDLE | GCollab
@@ -20,7 +20,6 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-&nbsp; <a href="https://twitter.com/NcPedia?s=09" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://instagram.com/shiva_nc_?igshid=ZDdkNTZiNTM=" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/shiva-nagachander-r-53a707254" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:shivanagachander@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
