@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shiva naga chander</h1>
-<h3 align="center">Tech enthusiast | Frontend Web developer </h3>
+<h3 align="center">Tech enthusiast | Novice Frontend Web developer </h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <a href="https://twitter.com/ncpedia" target="blank"><img src="https://img.shields.io/twitter/follow/ncpedia?logo=twitter&style=for-the-badge" alt="ncpedia" /></a> </p>
+
+- 🚀 Cse Undergrad | Open to Intern
 
 - 🌱 Currently learning **Python , Javascript**
 
