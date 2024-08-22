@@ -13,9 +13,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java
-- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap |Flask
+- 🛢 &nbsp; MySQL | Xampp
 - 🔧 &nbsp; Visual Studio code | Git | Github | IDLE | GCollab
+- 📊 &nbsp;Tableau
 - 🖥 &nbsp; Canva | FireFly | Ms Designer 
 
 <br>
