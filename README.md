@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva naga chander</h1>
-<h3 align="center">Tech enthusiast | Novice Frontend Web developer </h3>
+<h3 align="center">Novice Web developer | Open to work</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🚀 Cse Undergrad | Open to Intern
