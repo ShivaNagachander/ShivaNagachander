@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiva naga chander</h1>
-<h3 align="center"> Open to work</h3>
 
 
-- 🚀 Cse Undergrad | Open to Intern
+- 🚀 Cse Undergrad | Open to Intern roles
 
-- 🌱 Currently learning **Python , Javascript**
+- 🌱 Currently learning **Python , Java**
 
 - ▶️: [Nc Pedia](https://www.youtube.com/@Ncpedia)
 
