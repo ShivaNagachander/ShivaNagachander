@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva naga chander</h1>
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🚀 Cse Undergrad | Open to Intern roles
 
@@ -27,5 +28,9 @@
 </p>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivaNagachander&theme=chartreuse-dark&show_icons=true"> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaNagachander&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ShivaNagachander/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/ShivaNagachander/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaNagachander&layout=compact&text_color=daf7dc&bg_color=151515" />
+  </a>
+</p>
 
