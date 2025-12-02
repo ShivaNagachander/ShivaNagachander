@@ -28,9 +28,3 @@
 </p>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivaNagachander&theme=chartreuse-dark&show_icons=true"> -->
 
-<p align="left">
-  <a href="https://github.com/ShivaNagachander/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaNagachander&layout=compact&text_color=daf7dc&bg_color=151515" />
-  </a>
-</p>
-
