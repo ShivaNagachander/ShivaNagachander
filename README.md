@@ -2,8 +2,9 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🚀 Cse Graduate
-
+- 🎓 Computer Science Engineering Graduate
+- 💻 Interested in Software Development, Data Engineering, and AI
+- 🌱 Continuously learning and building projects
 
 - ▶️: [Nc Pedia](https://www.youtube.com/@Ncpedia)
 
